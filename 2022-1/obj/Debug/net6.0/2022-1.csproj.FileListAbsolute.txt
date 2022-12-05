@@ -1,0 +1,15 @@
+C:\Users\sveno\projects\adventofcode\2022-1\bin\Debug\net6.0\2022-1.exe
+C:\Users\sveno\projects\adventofcode\2022-1\bin\Debug\net6.0\2022-1.deps.json
+C:\Users\sveno\projects\adventofcode\2022-1\bin\Debug\net6.0\2022-1.runtimeconfig.json
+C:\Users\sveno\projects\adventofcode\2022-1\bin\Debug\net6.0\2022-1.dll
+C:\Users\sveno\projects\adventofcode\2022-1\bin\Debug\net6.0\2022-1.pdb
+C:\Users\sveno\projects\adventofcode\2022-1\obj\Debug\net6.0\2022-1.csproj.AssemblyReference.cache
+C:\Users\sveno\projects\adventofcode\2022-1\obj\Debug\net6.0\2022-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sveno\projects\adventofcode\2022-1\obj\Debug\net6.0\2022-1.AssemblyInfoInputs.cache
+C:\Users\sveno\projects\adventofcode\2022-1\obj\Debug\net6.0\2022-1.AssemblyInfo.cs
+C:\Users\sveno\projects\adventofcode\2022-1\obj\Debug\net6.0\2022-1.csproj.CoreCompileInputs.cache
+C:\Users\sveno\projects\adventofcode\2022-1\obj\Debug\net6.0\2022-1.dll
+C:\Users\sveno\projects\adventofcode\2022-1\obj\Debug\net6.0\refint\2022-1.dll
+C:\Users\sveno\projects\adventofcode\2022-1\obj\Debug\net6.0\2022-1.pdb
+C:\Users\sveno\projects\adventofcode\2022-1\obj\Debug\net6.0\2022-1.genruntimeconfig.cache
+C:\Users\sveno\projects\adventofcode\2022-1\obj\Debug\net6.0\ref\2022-1.dll
